@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppChatFirebase</string>
+
+    <string name="tittle_logout">Logout</string>
+    <string name="title_setting">Setting</string>
+    <string name="message_no_network">Lỗi kết nối internet!</string>
+    <string name="message_unknown">Đã có lỗi ra</string>
+    <string name="title_sign_in_error">Đăng nhập lỗi</string>
+    <string name="option_retry">Thử lại</string>
+    <string name="option_exit">Thoát</string>
+</resources>
